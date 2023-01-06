@@ -21,6 +21,7 @@ target/*
 *.dex
 gen/
 pretrain_model/
+pretrain_model/*
 local.properties
 proguard/
 *.pbxuser
