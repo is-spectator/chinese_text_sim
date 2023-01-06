@@ -20,7 +20,7 @@ target/*
 *.ap_
 *.dex
 gen/
-../text_sim/pretrain_model/
+pretrain_model/
 local.properties
 proguard/
 *.pbxuser
